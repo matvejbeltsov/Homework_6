@@ -1,0 +1,14 @@
+C:\Users\matve\Desktop\Программирование\C, C++, C#\Homework_6\Task_2\bin\Debug\net7.0\Task_2.exe
+C:\Users\matve\Desktop\Программирование\C, C++, C#\Homework_6\Task_2\bin\Debug\net7.0\Task_2.deps.json
+C:\Users\matve\Desktop\Программирование\C, C++, C#\Homework_6\Task_2\bin\Debug\net7.0\Task_2.runtimeconfig.json
+C:\Users\matve\Desktop\Программирование\C, C++, C#\Homework_6\Task_2\bin\Debug\net7.0\Task_2.dll
+C:\Users\matve\Desktop\Программирование\C, C++, C#\Homework_6\Task_2\bin\Debug\net7.0\Task_2.pdb
+C:\Users\matve\Desktop\Программирование\C, C++, C#\Homework_6\Task_2\obj\Debug\net7.0\Task_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matve\Desktop\Программирование\C, C++, C#\Homework_6\Task_2\obj\Debug\net7.0\Task_2.AssemblyInfoInputs.cache
+C:\Users\matve\Desktop\Программирование\C, C++, C#\Homework_6\Task_2\obj\Debug\net7.0\Task_2.AssemblyInfo.cs
+C:\Users\matve\Desktop\Программирование\C, C++, C#\Homework_6\Task_2\obj\Debug\net7.0\Task_2.csproj.CoreCompileInputs.cache
+C:\Users\matve\Desktop\Программирование\C, C++, C#\Homework_6\Task_2\obj\Debug\net7.0\Task_2.dll
+C:\Users\matve\Desktop\Программирование\C, C++, C#\Homework_6\Task_2\obj\Debug\net7.0\refint\Task_2.dll
+C:\Users\matve\Desktop\Программирование\C, C++, C#\Homework_6\Task_2\obj\Debug\net7.0\Task_2.pdb
+C:\Users\matve\Desktop\Программирование\C, C++, C#\Homework_6\Task_2\obj\Debug\net7.0\Task_2.genruntimeconfig.cache
+C:\Users\matve\Desktop\Программирование\C, C++, C#\Homework_6\Task_2\obj\Debug\net7.0\ref\Task_2.dll
